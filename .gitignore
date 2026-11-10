@@ -1,0 +1,11 @@
+target/
+*.jar
+.idea/
+.vscode/
+*.iml
+.DS_Store
+.env
+.env.*
+!.env.example
+application-local.properties
+*.log
